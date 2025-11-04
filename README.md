@@ -8,7 +8,7 @@
 
 PayLoop is a conceptual UPI-first micro-savings and micro-investment product designed for students, freelancers, and early-career professionals. This repo contains a 6-month GTM plan focusing on campus beta (Lucknow), creator partnerships, referral-driven growth, activation funnels, and monetization levers. The plan estimates CAC, LTV, and scalable retention tactics to reach product-market fit.
 
-**Key deliverables:** funnel metrics, acquisition channel playbook, retention hooks, CAC/LTV simulation, phased OKRs.
+**Key deliverables:** funnel metrics, acquisition channel playbook, retention hooks, CAC/LTV simulation, phased OKRs
 
 ---
 
